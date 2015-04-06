@@ -1,4 +1,8 @@
 
-https://www.youtube.com/watch?v=-FJZQSHn7fc
+## Using ActiveRecord with Sinatra
 
-http://www.screencasts.org/episodes/activerecord-with-sinatra
+Description: URL shortener Sinatra webapp using a sqlite3 database
+
+Video: https://www.youtube.com/watch?v=-FJZQSHn7fc
+
+Screencast (video doesn't work): http://www.screencasts.org/episodes/activerecord-with-sinatra
